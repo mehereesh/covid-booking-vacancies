@@ -1,0 +1,8 @@
+regular-user https://vaccinationbooking.000webhostapp.com/php/login.php
+
+admin  https://vaccinationbooking.000webhostapp.com/admin/php/login.php
+
+
+Backend Language PHP 
+
+Database PHPMyAdmin 
